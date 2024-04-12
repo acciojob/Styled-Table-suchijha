@@ -1,1 +1,4 @@
 /* your code */
+tr:nth-child(even){
+background-color:blue;
+}
